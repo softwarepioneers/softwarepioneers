@@ -1,4 +1,4 @@
-# Hi there, I’m Abdulsalam Hassan 👋
+# Hi there, I’m Ibrahim Saed Abdalla 👋
 
 🎓 A first-year Computer Science student at SIMAD Univesity passionate about learning and building awesome tech!
 
