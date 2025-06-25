@@ -1,54 +1,26 @@
-## Hi there 👋
+# Hi there, I’m Abdulsalam Hassan 👋
 
-<!--
-**softwarepioneers/softwarepioneers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 A first-year Computer Science student at SIMAD Univesity passionate about learning and building awesome tech!
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🧑‍💻 I’m currently learning **React.js** and **full-stack development**
+- 🔭 Focused on the **MERN stack** (MongoDB, Express.js, React, Node.js)
+- 💡 I love learning by building — you’ll find my journey through hands-on projects
+- 🤝 Open to collaboration and contribution opportunities
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Tech I’m Working With
+- Languages: JavaScript, HTML, CSS
+- Frameworks: React.js (in progress)
+- Tools: Git, GitHub, Vercel, VS Code
 
+## 🌟 Fun Facts
+- ☕ Coffee + Code = Productivity
+- 🧠 I enjoy turning ideas into real-world applications
+- 🎯 On a mission to become a great software engineer
+- 🌍 I’m based in Somalia, learning and building globally
 
-# openSIS Classic
-Community Edition version 9.0 (Rel date: 12/31/2022)
-Created by [OS4ED](https://www.os4ed.com/)
+## 📫 Let’s Connect!
+- portfolio : [https://polished-portfolio-wave.lovable.app/]
+- LinkedIn: [https://www.linkedin.com/in/abdulsalam-hassan-296739368/]
 
-openSIS is an easy to use Student Information System for organizing student information and school-related operations to promote efficiency in K-12, trade schools and higher education school systems.
-
-## Key Features
-
-- Manage Student Data
-- Manage Staff Data
-- Manage School Data
-- Course Manager
-- Scheduling
-- Attendance
-- Grades
-- Teacher Gradebook
-- Progress Reports
-- Report Cards
-- Transcripts
-- Built-in Communication
-- Bulk data imports
-
-## Installation
-
-openSIS Community Edition requires
-- Apache 2.4 or above
-- MySQL 5.7, 8.0 or Maria DB 10.4.x
-- PHP 8.x
-
-[Installation Details](https://github.com/OS4ED/openSIS-Classic/blob/master/docs/openSIS-CE%20Installation%20Guide.pdf)
-
-
-## License
-
-openSIS is an Open Source Project licensed under the GNU General Public License, the full license can be found [here](https://github.com/OS4ED/openSIS-Classic/blob/master/docs/License.txt).
-
+> "Keep building. Keep learning. Keep growing." 🚀
